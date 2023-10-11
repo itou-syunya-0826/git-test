@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello Git Hub!\n";
 
-    std::cout << "Hello Git Hub!\n";
+    std::cout << "GC1D_02_イトウシュンヤ\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
