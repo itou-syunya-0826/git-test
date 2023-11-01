@@ -19,7 +19,7 @@ int main()
   
     std::cout << "プルしてから変更します\n";
 
-    std::cout << "プルプルリクエスト\n";
+    std::cout << "プルプルクエスト\n";
 
 }
 
