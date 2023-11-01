@@ -19,7 +19,8 @@ int main()
   
     std::cout << "プルしてから変更します\n";
 
-    std::cout << "プル\n";
+    std::cout << "プルプルリクエスト\n";
+
 
 
 
